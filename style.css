@@ -1,3 +1,35 @@
-border{
-    color: red;
+.um{
+    border: 200px;
+    width: fit-content;
+    height: 100px;
+    color: blue;
+    font-size: 30px;
+    background-color: aquamarine;
+    margin: 0 auto;
 }
+.dois{
+    border: 200px;
+    width: fit-content;
+    height: 100px;
+    color: purple;
+    font-size: 30px;
+    background-color: blue;
+    margin: 0 auto;
+}
+.tres{
+    border: 200px;
+    width: fit-content;
+    height: 100px;
+    color:green;
+    font-size: 30px;
+    background-color: coral;
+}
+.quatro{
+    border: 200px;
+    width: fit-content;
+    height: 100px;
+    color: red;
+    font-size: 30px;
+    background-color: black;
+}
+   
